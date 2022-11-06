@@ -1,4 +1,4 @@
-namespace LeetCode.Models.TreeNode{
+namespace YOUR_PROJECT_DIR.YOUR_MODELS_DIR.TreeNode{
     public class TreeNode {
         public int val;
         public TreeNode? left;
